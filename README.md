@@ -1,1 +1,1 @@
-# llm-course-notes
+# LLM Course Notes
